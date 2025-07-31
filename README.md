@@ -1,1 +1,1 @@
-# SSTGNN
+# Implementation of SSTGNN
